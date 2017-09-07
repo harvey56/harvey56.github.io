@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+header{
+  color: #333333;
+  text-align: center;
+  background-color: #DDDDDD;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.left-col{
+  background-color: #B8E9FF;
+  border-radius: 20px;
+  margin-right: 40px;
+  margin-left: 50px;
+  height: 800px;
+  padding: 20px 20px 20px 40px;
+}
+
+.technos_list{
+  color: #BD4162;
+}
+
+.central-col{
+  background-color: #FFF7DF;
+
+  padding: 20px;  
+  border-radius: 20px;
+}
+
+footer{
+  color: #333333;
+  text-align: center;
+  background-color: #DDDDDD;
+  padding: 10px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.id_photo{
+  width: 200px;
+  border-radius: 50%;
+}
+
+.list{
+  list-style: none;
+}
