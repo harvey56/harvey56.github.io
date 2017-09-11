@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harvey56.github.io",
+  "homepage": "https://harvey56.github.io/",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "gh-pages": "^1.0.0",
