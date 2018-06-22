@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import LeftMenu from './LeftMenu';
 import PortfolioDetails from './PortfolioDetails';
 import './App.css';

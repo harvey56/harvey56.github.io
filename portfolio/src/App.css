@@ -67,6 +67,10 @@ footer{
   border-radius: 50%;
 }
 
+.socialmediaicon{
+  width: 50px;
+}
+
 .list{
   list-style: none;
 }
