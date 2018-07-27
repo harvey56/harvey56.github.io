@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://harvey56.github.io/dist/",
+  "homepage": "https://harvey56.github.io",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",
