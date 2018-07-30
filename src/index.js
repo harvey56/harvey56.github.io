@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import App from "./App";
 import style from "./main.css";
+
 /*
 function component() {
   var element = document.createElement('div');
