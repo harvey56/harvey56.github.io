@@ -38,7 +38,7 @@
     "dev": "webpack-dev-server --config webpack.config.dev.js --mode development --open",
     "build": "webpack --config webpack.config.prod.js --mode production",
     "prod": "npm-run-all clean build",
-    "deploy": "gh-pages -b gh-pages -d dist"
+    "deploy": "gh-pages -b master -d dist"
   },
   "keywords": [],
   "author": "",
